@@ -1,0 +1,67 @@
+#caja {
+    display: block; width: 100px; height: 100px;
+}
+
+.contenedor {
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translatex(-50%);
+    font-size: large;
+}
+
+.titulo {
+    position: absolute;
+    left: 50%;
+    top: 0%;
+    transform: translatex(-50%);
+    font-size: large;
+}
+
+.mensaje {
+    position: absolute;
+    left: 10%;
+    top: 15%;
+    transform: translatex(-50%);
+    font-size: large;
+}
+
+.forms {
+    position: absolute;
+    left: 10%;
+    top: 20%;
+    transform: translatex(-50%);
+    font-size: large;
+}
+
+.mensaje1 {
+    position: absolute;
+    left: 10%;
+    top: 28%;
+    transform: translatex(-50%);
+    font-size: large;
+}
+
+.forms1 {
+    position: absolute;
+    left: 10%;
+    top: 33%;
+    transform: translatex(-50%);
+    font-size: large;
+}
+
+.mensaje2 {
+    position: absolute;
+    left: 10%;
+    top: 40%;
+    transform: translatex(-50%);
+    font-size: large;
+}
+
+.forms2 {
+    position: absolute;
+    left: 10%;
+    top: 45%;
+    transform: translatex(-50%);
+    font-size: large;
+}
